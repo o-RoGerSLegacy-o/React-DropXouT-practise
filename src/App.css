@@ -1,0 +1,13 @@
+body
+{
+  background-color: rgba(159, 245, 255, 0.58);
+  align-items:center;
+  justify-content: center;
+}
+.hero
+{
+  align-items:center;
+  justify-content: center;
+  color:rgb(4, 35, 35);
+   
+}
