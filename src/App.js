@@ -2,6 +2,8 @@ import "./App.css";
 import BookList from "./components/BookList";
 import DataFetchUseEffect from "./fetchDataUseEffect/DataFetchUseEffect";
 import StateExamples from "./statepractise/StateExamples";
+import B from "./useContextPRactise/B";
+import ReducerPractise from "./useReducerPractise/ReducerPractise";
 
 function App() {
   return (
@@ -10,8 +12,9 @@ function App() {
       <StateExamples />
 
        */}
-
+      {/* <B /> */}
       {/* <DataFetchUseEffect /> */}
+      <ReducerPractise />
     </>
   );
 }
